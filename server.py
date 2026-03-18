@@ -7,7 +7,7 @@ import tempfile
 app = Flask(__name__)
 
 IG_USERNAME = "dylanbmichelleb@gmail.com"
-IG_PASSWORD = "Db102779!"
+IG_PASSWORD = "Db102779!!"
 
 
 @app.route("/health", methods=["GET"])
