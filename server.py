@@ -6,8 +6,8 @@ import tempfile
 
 app = Flask(__name__)
 
-IG_USERNAME = "YOUR_INSTAGRAM_USERNAME"
-IG_PASSWORD = "YOUR_INSTAGRAM_PASSWORD"
+IG_USERNAME = "imbetterthanyoubuddy"
+IG_PASSWORD = "Db102779!"
 
 
 @app.route("/health", methods=["GET"])
