@@ -6,7 +6,7 @@ import tempfile
 
 app = Flask(__name__)
 
-IG_USERNAME = "dylanbmichelleb@gmail.com"
+IG_USERNAME = "imbetterthanyoubuddy"
 IG_PASSWORD = "Db102779!!"
 
 
